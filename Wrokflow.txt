@@ -1,0 +1,20 @@
+Creating an responsive blog template:
+
+1. Creating a JS file
+    1. For a personal blog 
+        1. We have to create different cards for each blog that will be displayed accordingly.
+        2. We have to also store the date and time for each blog post.
+        3. We have to add a button also for adding a new blog post.
+        4. Onclicking that button we can write everything in that blog.
+        5. Editing is possible in that blog post
+        6. Edit option is also present within each blog post so that we can edit
+
+    
+    2. For the home page.
+
+2. Creating a HTML file
+    1. Firstly create a home page.
+    2. Then create a blog page.
+        1. Inside every blog page there will be different components in which we can enter our text.
+        2. The home page consists of only a CSS file that represents it beauty.       
+3. Creating a CSS file
